@@ -1,1 +1,1 @@
-# bot2wAve.com
+# bot2wAve
